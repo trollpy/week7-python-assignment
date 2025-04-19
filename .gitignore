@@ -1,0 +1,22 @@
+# Ignore Kaggle API credentials
+kaggle.json
+.kaggle/
+.kaggle/kaggle.json
+
+# Ignore Python cache and environment folders
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Ignore virtual environment folders
+env/
+venv/
+
+# Ignore dataset zip files and CSVs (optional)
+*.zip
+*.csv
+# /crime-statistics-for-south-africa
+# Ignore OS or editor-specific files
+.DS_Store
+Thumbs.db
+.vscode/
